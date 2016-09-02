@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Jama-1.0.3">
+    <CLASSES>
+      <root url="jar://I:/External Library/Jama-1.0.3.jar!/" />
+      <root url="jar://I:/External Library/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar!/" />
+      <root url="jar://I:/External Library/jfreechart-1.0.19/lib/jcommon-1.0.23.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

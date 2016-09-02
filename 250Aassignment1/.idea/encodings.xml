@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Counting.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/FileData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/IOHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/TestDrive.java" charset="UTF-8" />
+  </component>
+</project>
